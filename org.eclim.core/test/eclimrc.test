@@ -1,7 +1,7 @@
 # set the workspace
 osgi.instance.area.default=@user.home/workspace.unittest
 
-nailgun.server.port=9092
+nailgun.server.port=9091
 
 # increase heap space
 -Xmx1g
