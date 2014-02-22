@@ -327,4 +327,5 @@ if !exists('#LargeFile') && g:EclimLargeFileEnabled
 endif
 " }}}
 
+command EclimEcho :call eclim#sample#echo#Echo()
 " vim:ft=vim:fdm=marker
